@@ -124,7 +124,7 @@ Movie-Recommendation-System/
 │
 ├── sample/
 │   └── movies_dataset.csv   # The movie dataset
-├── movie_recommendation.py  # Main Python script
+├── movie_recommendation.ipynb  # Main Python script
 └── README.md                # Documentation
 ```
 
